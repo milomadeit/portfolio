@@ -1,6 +1,6 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
+		title: "Zach Milo Portfolio Site",
 		name: "Zach M.",
 		email: "zachmilo@gmail.com",
 		logo: "../logo.png",
