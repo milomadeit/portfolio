@@ -18,7 +18,7 @@ const INFO = {
 	homepage: {
 		title: "Developer, pixel artist, \n and audio-architect",
 		description:
-			"I'm a full-stack web developer interested in frontend design and and backend architecture. I enjoy learning new tech and I am passionate about creating useful and fun things. Design is always important. I looking for new challenges and opportunities to grow as a developer.",
+			"I'm a full-stack web developer interested in frontend design and and backend architecture. I enjoy learning new tech and I am passionate about creating useful and fun things. As an artist design is always important to me. I am always looking for new challenges and opportunities to grow as a developer.",
 	},
 
 	about: {
