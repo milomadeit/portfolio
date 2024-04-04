@@ -39,7 +39,7 @@ const INFO = {
 		{
 			title: "CloudSound",
 			description:
-				"A full-stack web application built as group project. CloudSound is a simple app for users to upload their songs, listen to other songs, like them, and organize songs into playlists.",
+				"CloudSound is a simple platform for users to upload their songs, listen to other songs, like them, and organize songs into playlists.",
 			logo: "https://purple-hilarious-rattlesnake-755.mypinata.cloud/ipfs/QmTQqua8oGwpNkToz3fuz4PBFY4w2xeQKTCsL92dvETYan",
 			linkText: "View Project",
 			link: "https://github.com/milomadeit/cloudsound",
@@ -50,7 +50,7 @@ const INFO = {
 			description:
 				"Currently building a Discord bot for querying information about specific tokens and collections on the Sei Network.",
 			logo: "https://banner2.cleanpng.com/20180627/kqx/kisspng-computer-icons-discord-logo-discord-icon-5b3371b3afd2b1.6821300515300980997202.jpg",
-			linkText: "Lets talk Web3",
+			linkText: "Lets Talk Web3",
 			link: "https://zachmilo.vercel.app/contact",
 		},
 	],
