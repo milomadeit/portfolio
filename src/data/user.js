@@ -30,28 +30,28 @@ const INFO = {
 		{
 			title: "TaskIt",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A full-stack web application that helps you manage your projects and the tasks you have to complete.",
 			logo: "https://purple-hilarious-rattlesnake-755.mypinata.cloud/ipfs/QmVj1CARWVrSB9eLRXZ3KwA1DL8bWAnaHnhX4jcZkAw7QL",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/milomadeit/taskit",
 		},
 
 		{
 			title: "CloudSound",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A full-stack web application built as group project. CloudSound is a simple app for users to upload their songs, listen to other songs, like them, and organize songs into playlists.",
 			logo: "https://purple-hilarious-rattlesnake-755.mypinata.cloud/ipfs/QmTQqua8oGwpNkToz3fuz4PBFY4w2xeQKTCsL92dvETYan",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/milomadeit/cloudsound",
 		},
 
 		{
 			title: "Web3 Discord Bot",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Currently building a Discord bot for querying information about specific tokens and collections on the Sei Network.",
 			logo: "https://banner2.cleanpng.com/20180627/kqx/kisspng-computer-icons-discord-logo-discord-icon-5b3371b3afd2b1.6821300515300980997202.jpg",
-			linkText: "View Project",
-			link: "https://github.com",
+			linkText: "Lets talk Web3",
+			link: "https://zachmilo.vercel.app/contact",
 		},
 	],
 };
