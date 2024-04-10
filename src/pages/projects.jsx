@@ -39,7 +39,7 @@ const Projects = () => {
 					</div>
 					<div className="projects-container">
 						<div className="title projects-title">
-							The best adventures begin with the first steps, here are some things I've built so far.
+							The best adventures begin with the first steps, here are some things I've built so far
 						</div>
 
 						<div className="subtitle projects-subtitle">

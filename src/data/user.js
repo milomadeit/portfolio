@@ -22,7 +22,7 @@ const INFO = {
 	},
 
 	about: {
-		title: "Hi, I'm Zach Milo!",
+		title: "Hi, I'm Zach Milo",
 		description:
 			"New to the developer world but a life long technologist. I have almost 10 years experience as an audio engineer and music producer and have done some freelance design and visual art for hire throughout the years. My passion for web development comes from an interest in blockchain technology. Realizing how important a foundation in web development is, I've found myself immersed in the world of programming and quarter-life career change. I couldn't be more excited about the future.",
 	},
@@ -34,6 +34,7 @@ const INFO = {
 			logo: "https://purple-hilarious-rattlesnake-755.mypinata.cloud/ipfs/QmVj1CARWVrSB9eLRXZ3KwA1DL8bWAnaHnhX4jcZkAw7QL",
 			linkText: "View Project",
 			link: "https://github.com/milomadeit/taskit",
+			liveSite: "https://cocreate-x0xh.onrender.com/",
 		},
 
 		{
@@ -43,6 +44,7 @@ const INFO = {
 			logo: "https://purple-hilarious-rattlesnake-755.mypinata.cloud/ipfs/QmTQqua8oGwpNkToz3fuz4PBFY4w2xeQKTCsL92dvETYan",
 			linkText: "View Project",
 			link: "https://github.com/milomadeit/cloudsound",
+			liveSite: "https://cloudsound.onrender.com/",
 		},
 
 		{
@@ -52,6 +54,7 @@ const INFO = {
 			logo: "https://banner2.cleanpng.com/20180627/kqx/kisspng-computer-icons-discord-logo-discord-icon-5b3371b3afd2b1.6821300515300980997202.jpg",
 			linkText: "Lets Talk Web3",
 			link: "https://zachmilo.vercel.app/contact",
+			liveSite: "",
 		},
 	],
 };

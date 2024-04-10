@@ -103,7 +103,7 @@ const Articles = () => {
 						</div>
 					</div>
 					<div className="title art-title">
-							<p className="art-p">Here's some of my visual art!</p>
+							<p className="art-p">Here's some of my visual art</p>
 						</div>
 						<div className="subtitle about-subtitle art-sub">
 									From pixels to 2D design, and even some experimentation with P5.js, I love being creative and having fun.
